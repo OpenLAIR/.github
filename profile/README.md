@@ -1,4 +1,6 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/OpenLAIR/.github/main/profile/2026-03-26-lair-banner.png" alt="LAIR Banner" width="800"/>
+<br><br>
 <strong>Lehigh AI Research Lab (LAIR)</strong> · <a href="https://www.lehigh.edu/">Lehigh University</a> · Led by <a href="https://lichao-sun.github.io/">Prof. Lichao Sun</a>
 <br>
 Trustworthy AI · Medical AI · Generative AI / LLM · Federated Learning · Reinforcement Learning
