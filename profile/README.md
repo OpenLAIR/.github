@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/OpenLAIR/openlair.github.io/main/assets/img/prof_pic.png" alt="LAIR Logo" width="200"/>
+<img src="https://raw.githubusercontent.com/OpenLAIR/.github/main/profile/logo.png" alt="LAIR Logo" width="200"/>
 
 # Lehigh AI Research Lab (LAIR)
 
