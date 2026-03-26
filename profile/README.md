@@ -9,8 +9,4 @@ Trustworthy AI · Medical AI · Generative AI / LLM · Federated Learning · Rei
 
 ### News
 - **[2026.03]** [Dr. Claw](https://github.com/OpenLAIR/dr-claw) released — AI research workspace with 670+ GitHub stars
-- **[2024.08]** BiomedGPT published in *Nature Medicine*
-- **[2024.05]** OpenAI Researcher Access Program Award
-- **[2024.01]** Microsoft Accelerate Foundation Models Research Award
-- **[2023.08]** SIGIR 2023 Best Paper Honorable Mention Award
-- **[2023.06]** NSF CRII Award
+- **[2026.03]** [Awesome Vibe Researching](https://github.com/OpenLAIR/awesome-vibe-researching) — curated list of 100+ resources for AI-driven research automation
